@@ -1,10 +1,3 @@
-# whisper-audio-to-text
-A simple implementation of OpenAI’s Whisper for transcribing MP3 files on Google Colab.
-
-Here's the **final enhanced README.md** with the **updated usage instructions** explaining both **uploading a custom file** and **using the sample file** from GitHub.  
-
----
-
 # **Whisper Audio-to-Text (Google Colab)**  
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)  
